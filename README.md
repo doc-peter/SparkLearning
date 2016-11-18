@@ -1,6 +1,4 @@
 # SparkLearning
 
-基础知识准备：
-1. Amazon S3
-2. Hypertable
-3. Hbase
+踏上spark之旅！
+专注于数据存储和计算
