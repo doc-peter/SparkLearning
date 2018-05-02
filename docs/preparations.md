@@ -1,4 +1,9 @@
 ### 底层存储
 * Amazon S3 
 * Hypertable 
-* Hbase
+* HBase
+
+### 数据源
+* Kafka
+* Flume
+* Kinesis
