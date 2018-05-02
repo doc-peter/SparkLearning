@@ -7,3 +7,4 @@
 * Kafka
 * Flume
 * Kinesis
+* HDFS
